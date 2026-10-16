@@ -6,7 +6,6 @@
 
 <p align="center">
   ⚡ Practical tools for <b>electrical CAD (ECAD)</b> workflows.<br/>
-  Built in the Canary Islands 🇮🇨
 </p>
 
 <p align="center">
@@ -17,20 +16,6 @@
 
 ---
 
-## What we're building
-
-Utilities that fit into real engineering routines instead of replacing them:
-
-- **Content pipelines** — export what's missing, work offline, import only the empty fields. Nothing overwrites what you already filled in.
-- **Docs & scripting aids** — reference material and small tools that answer the *"why won't this macro run"* question at 2 a.m.
-
-Everything speaks spreadsheet-friendly formats (CSV/TSV). No proprietary lock-in, no database held hostage.
-
-## Principles
-
-1. **The cloud never writes to your projects.** Proposals and processing may happen remotely; changes are applied locally, by you, after you approve them.
-2. **Offline-first.** Tools must keep working on a plane, a site with no signal, or a network you don't control.
-3. **Small and sharp.** One job per tool. Explicit import steps. No magic that you can't audit.
 
 ## Status
 
