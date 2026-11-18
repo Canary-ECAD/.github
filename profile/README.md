@@ -21,7 +21,6 @@
 
 | Project | What it does |
 |---|---|
-| [**Bochica**](https://github.com/Canary-ECAD/bochica) | Windows desktop app to work with EPLAN Electric P8 through an AI agent, in plain language: install it, paste an API key from any provider, and it brings eplan-mcp, the skills and the documentation RAGs ready to use. |
 | [**eplan-mcp**](https://github.com/Canary-ECAD/eplan-mcp) | MCP server that lets Claude Code, Codex, Cursor or any MCP client drive a running EPLAN Electric P8: ~200 tools for actions, scripts, the live DataModel and exports. |
 | [**eplan-scripting-skill**](https://github.com/Canary-ECAD/eplan-scripting-skill) | Agent skills that teach your AI to write correct EPLAN code: C# scripting, the EPLAN API, Remote Client and EEC Pro. |
 | [**eec-pro-skill**](https://github.com/Canary-ECAD/eec-pro-skill) | Agent skill for EPLAN EEC Pro: mechatronic model, typicals, formulas, EOX files, Groovy actions and the Job Server. |
